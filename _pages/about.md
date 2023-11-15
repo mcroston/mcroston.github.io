@@ -8,13 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am a doctoral candidate in the Public Health Sciences program at Washington University in St. Louis. I am a [Chancellor’s Graduate fellow](https://provost.wustl.edu/items/chancellors-graduate-fellowship-program/), [Spencer T. and Ann W. Olin fellow](https://provost.wustl.edu/items/chancellors-graduate-fellowship-program/), and inaugural recipient of the [Center for Critical Internet Inquiry’s Tech Impact Network Dissertation Fellowship](https://twitter.com/C2i2_UCLA/status/1534875709188997120) at University of California, Los Angeles. I use social network analysis and other statistical approaches to study how and why health misinformation spreads on the internet and how to combat it.
-
-I have over 10 years of public health experience. Prior to entering the PhD program, I held scientific positions at agencies such as the Georgia Department of Public Health and the U.S. Centers for Disease Control and Prevention. I earned a Bachelor of Science from Georgetown University and a Master of Public Health in Epidemiology from Emory University’s Rollins School of Public Health and am a Gates Millennium Scholar. In addition to my research interests, I am devoted to promoting gender and racial diversity in data science.
+Hello! I am a doctoral candidate in the Public Health Sciences program at Washington University in St. Louis. I am a [Chancellor’s Graduate fellow](https://provost.wustl.edu/items/chancellors-graduate-fellowship-program/), [Spencer T. and Ann W. Olin fellow](https://provost.wustl.edu/items/chancellors-graduate-fellowship-program/), and inaugural recipient of the [Center for Critical Internet Inquiry’s Tech Impact Network Dissertation Fellowship](https://twitter.com/C2i2_UCLA/status/1534875709188997120) at University of California, Los Angeles. I use social network analysis and other statistical approaches to study how and why health misinformation spreads on the internet and how to combat it. In addition to my research interests, I am devoted to promoting gender and racial diversity in data science.
 
 Active Projects & Collaborations
 ------
-Check out the [Health Misinformation](/pages/publications1), [Health Discussant Networks](/pages/publications2), and [DEI & Belong](/pages/publications3) projects tabs to learn more about my work. I'm interested in cross-disciplinary collaborations with experts in public health, information science, communications, digital humanities, and critical media studies.
+I'm interested in cross-disciplinary collaborations with experts in public health, information science, communications, digital humanities, and critical media studies. Check out the [Health Misinformation](/pages/publications1), [Health Networks](/pages/publications2), and [DEI & Belonging](/pages/publications3) projects tabs to learn more about my work. 
 
 Education
 ------
