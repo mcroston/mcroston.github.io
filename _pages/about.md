@@ -16,9 +16,7 @@ I'm interested in cross-disciplinary collaborations with experts in public healt
 
 Education
 ------
-MPH, Epidemiology (Emory University)
-
-BS, Biology (Georgetown University)
+MPH, Epidemiology (Emory University); BS, Biology (Georgetown University)
 
 Publications
 ------
