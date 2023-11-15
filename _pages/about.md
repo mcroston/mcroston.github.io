@@ -30,9 +30,11 @@ Publications
 ======
 Here's a [PDF of my CV] () and a list of peer-reviewed products:
 
-**Conference Presentations**
+Conference Presentations
+------
 
-**Journal Articles**
+Journal Articles
+------
 
 
 
