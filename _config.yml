@@ -80,10 +80,10 @@ analytics:
 
 # Site Author
 author:
-  name             : ""
+  name             : 
   avatar           : "profile.png"
-  bio              : ""
-  location         : ""
+  bio              : 
+  location         : 
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=Is6aJ00AAAAJ&hl=en"
