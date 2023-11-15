@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Public Health Sciences Doctoral Candidate"
-  avatar           : "/files/headshot_croston_sheleads102519-665_edit 3.png"
+  avatar           : /files/headshot_croston_sheleads102519-665_edit 3.png
   bio              : "Studying how and why health misinformation spreads on social media"
   location         : "Washington University in St. Louis"
   employer         :
