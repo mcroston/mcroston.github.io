@@ -28,7 +28,7 @@ Get in Touch
 
 Publications
 ------
-Here's a [PDF of my CV] () and a list of peer-reviewed products:
+Here's a [PDF of my CV] (https://wustl.app.box.com/file/1351129393821?s=i5b7lz3p94dtebdnj2pex0f8698ystda) and a list of peer-reviewed products:
 
 **Conference Presentations**
 
