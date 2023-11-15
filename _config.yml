@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Public Health Sciences Doctoral Candidate"
+  name             : ""
   avatar           : "profile.png"
-  bio              : "Studying how and why health misinformation spreads on social media"
+  bio              : ""
   location         : "Washington University in St. Louis"
   employer         :
   pubmed           : 
