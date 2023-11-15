@@ -83,7 +83,7 @@ author:
   name             : 
   avatar           : "profile.png"
   bio              : 
-  location         : 
+  #location         : 
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=Is6aJ00AAAAJ&hl=en"
