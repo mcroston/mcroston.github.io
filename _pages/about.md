@@ -109,7 +109,7 @@ AIDS Care.
 (accepted with revision) Gershon R., Cryder, C., Croston M. Risky Business: The Risk-Reward Trade-off is
 Different for Nonprofit and For-profit Firms. Journal of Marketing Research.
 
-Thompson T., Coats, J., Croston M., Motley R., Colditz, G., King, A., James, A. [An exploration of the needs and experiences of informal caregivers for Black breast cancer patients](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10495876/). SSM - Qualitative Research in
+Thompson T., Coats, J., Croston M., Motley R., Colditz, G., King, A., James, A. [An exploration of the needs and experiences of informal caregivers for Black breast cancer patients](https://www.sciencedirect.com/science/article/pii/S2667321522000592#:~:text=We%20held%20focus%20groups%20and,or%20working%20to%20forestall%20it.). SSM - Qualitative Research in
 Health. 2022 December; 2. doi: 10.31557/APJCP.2023.24.5.1651.
 
 Garg R., Croston M., Thompson T., McQueen A., Kreuter M. [Correlates of smoking discarded cigarettes in a sample of low-income adults](https://pubmed.ncbi.nlm.nih.gov/35074637/). Addictive Behaviors. 2022 May; 128: 107237. doi: 10.1016/j.addbeh.2022.107237.
