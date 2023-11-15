@@ -1,10 +1,10 @@
 # main links links
 main:
-  - title: "Publications"
-    url: https://scholar.google.com/citations?user=Is6aJ00AAAAJ&hl=en
+ # - title: "Publications"
+  #  url: https://scholar.google.com/citations?user=Is6aJ00AAAAJ&hl=en
 
-  - title: "CV"
-    url: /files/merriah_croston_cv.pdf
+ # - title: "CV"
+   # url: /files/merriah_croston_cv.pdf
 
  # - title: "Talks"
    # url: /talks/    
