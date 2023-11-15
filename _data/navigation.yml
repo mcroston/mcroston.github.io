@@ -1,22 +1,22 @@
 # main links links
 main:
   - title: "Publications"
-    url: https://scholar.google.com/citations?hl=en&user=Is6aJ00AAAAJ&view_op=list_works&gmla=AJ1KiT3FsYvcSTDQWCIDdS7Os9Oefi7n3_sP9fucgWxkd8FabdrCOYUaShHkkm-7bKw6sefmVT2R4kgWzTGfR7WZ
+    url: https://scholar.google.com/citations?user=Is6aJ00AAAAJ&hl=en
 
   - title: "CV"
     url: /files/merriah_croston_cv.pdf
 
- #- title: "Talks"
+ # - title: "Talks"
    # url: /talks/    
 
-  #- title: "Teaching"
+  # - title: "Teaching"
    # url: /teaching/    
     
-  #- title: "Portfolio"
+  # - title: "Portfolio"
    # url: /portfolio/
         
-  #- title: "Blog Posts"
+  # - title: "Blog Posts"
    # url: /year-archive/
         
-  #- title: "Guide"
+  # - title: "Guide"
    # url: /markdown/
