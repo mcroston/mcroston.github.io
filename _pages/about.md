@@ -24,8 +24,8 @@ Here's a [PDF of my CV](https://wustl.box.com/s/npdj9oc9fvkznddng8olsv4cpzwfa1j7
 
 **Conference Presentations**
 
-Croston M. (upcoming 2023, December). “Black people cannot get coronavirus” and other myths: A social
-network analysis of COVID-19 misinformation diffusion on Black Twitter. Will present at the 2023 Promoting
+Croston M. “Black people cannot get coronavirus” and other myths: A social
+network analysis of COVID-19 misinformation diffusion on Black Twitter. Presented at the 2023 Promoting
 Research in Social Media and Health Symposium. San Francisco, California.
 
 Croston M. (2023, June) The effects of health departments’ ego networks on information diffusion during a
