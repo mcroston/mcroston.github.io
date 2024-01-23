@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I'm a doctoral student in the Public Health Sciences program at Washington University in St. Louis, a [Chancellor’s Graduate fellow](https://provost.wustl.edu/items/chancellors-graduate-fellowship-program/) and [Spencer T. and Ann W. Olin fellow](https://provost.wustl.edu/items/chancellors-graduate-fellowship-program/), and an inaugural recipient of the [Center for Critical Internet Inquiry’s Tech Impact Network Dissertation Fellowship](https://twitter.com/C2i2_UCLA/status/1534875709188997120) at the University of California, Los Angeles. I have theoretical and applied research interests in how and why health misinformation spreads on the internet and how to combat it. Current projects use social network analysis and traditional statistics to evaluate fact-checking approaches and to explore the ways in which COVID-19 misinformation spreads on Twitter compared to other information types. My dissertation research examines the prevelance and diffusion dynamics of popular COVID-19 misinformation narratives on Black Twitter and is the first in a series that will investigate racial asymmetries in health misinformation. Complementary to my research interests, I am devoted to promoting gender and racial diversity in data science and am a co-organizer of RLadies Honolulu.
+Hello! I'm a PhD candidate in the Public Health Sciences program at Washington University in St. Louis, a [Chancellor’s Graduate fellow](https://provost.wustl.edu/items/chancellors-graduate-fellowship-program/) and [Spencer T. and Ann W. Olin fellow](https://provost.wustl.edu/items/chancellors-graduate-fellowship-program/), and an inaugural recipient of the [Center for Critical Internet Inquiry’s Tech Impact Network Dissertation Fellowship](https://twitter.com/C2i2_UCLA/status/1534875709188997120) at the University of California, Los Angeles. I have theoretical and applied research interests in how and why health misinformation spreads on the internet and how to combat it. Current projects use social network analysis and traditional statistics to evaluate fact-checking approaches and to explore the ways in which COVID-19 misinformation spreads on Twitter compared to other information types. My dissertation research examines the prevelance and diffusion dynamics of popular COVID-19 misinformation narratives on Black Twitter and is the first in a series of project that will investigate the health information ecosytem of online Black discursive networks. Complementary to my research interests, I am devoted to promoting gender and racial diversity in data science and am a co-organizer of RLadies Honolulu.
 
 Active Projects & Collaborations
 ------
@@ -20,7 +20,7 @@ MPH, Epidemiology (Emory University); BS, Biology (Georgetown University)
 
 Publications
 ------
-Here's a [PDF of my CV](https://wustl.app.box.com/file/1351129393821?s=i5b7lz3p94dtebdnj2pex0f8698ystda) and a list of peer-reviewed products:
+Here's a [PDF of my CV](https://wustl.box.com/s/npdj9oc9fvkznddng8olsv4cpzwfa1j7) and a list of peer-reviewed products:
 
 **Conference Presentations**
 
@@ -98,16 +98,9 @@ Annual American Public Health Association Meeting, New Orleans, Louisiana.
 
 **Journal Articles**
 
-(under review) Thompson T., Coats J., Croston M., Motley R., Sanders Thompson V., James A., Johnson L.
-“We need a little strength as well”: Examining the social context of informal caregivers for Black women
-with breast cancer. SSM - Qualitative Research in Health.
+Irie W., Croston M., Mahone, A. [The Impact of Providers as Health Discussants on Black Women’s Interest in PrEP for HIV Prevention. Journal of the International Association of Providers of AIDS Care](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10768609/). 2024 January; 23: 23259582231225278. doi: 10.1177/23259582231225278.
 
-(accepted with revision) Irie W., Croston M., Mahone, A. The Impact of Providers as Health Discussants on
-Black Women’s Interest in PrEP for HIV Prevention. Journal of the International Association of Providers of
-AIDS Care.
-
-(accepted with revision) Gershon R., Cryder, C., Croston M. Risky Business: The Risk-Reward Trade-off is
-Different for Nonprofit and For-profit Firms. Journal of Marketing Research.
+Thompson T., Coats J., Croston M., Motley R., Sanders Thompson V., James A., Johnson L. [“We need a little strength as well”: Examining the social context of informal caregivers for Black women with breast cancer](https://www.sciencedirect.com/science/article/pii/S0277953623008857). SSM - Qualitative Research in Health. 2024 February; 342: 116528. doi: 10.1016/j.socscimed.2023.116528.
 
 Thompson T., Coats, J., Croston M., Motley R., Colditz, G., King, A., James, A. [An exploration of the needs and experiences of informal caregivers for Black breast cancer patients](https://www.sciencedirect.com/science/article/pii/S2667321522000592#:~:text=We%20held%20focus%20groups%20and,or%20working%20to%20forestall%20it.). SSM - Qualitative Research in
 Health. 2022 December; 2. doi: 10.31557/APJCP.2023.24.5.1651.
