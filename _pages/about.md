@@ -8,14 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I'm a Yerby Postdoctoral Fellow at the Harvard T.H. Chan School of Public Health whose work is driven by a simple goal: ensuring that everyone has access to trustworthy, useful health information—no matter who they are or where they get their news. I study how health information and misinformation move through our digital lives, with particular attention to Black communities and other under reached groups who often face both health and communication inequities.
+Hello! I'm a Yerby Postdoctoral Fellow at the Harvard T.H. Chan School of Public Health. My work is driven by a simple goal: ensuring that everyone has access to trustworthy, useful health information—no matter who they are or where they get their news. I study how health information and misinformation move through our digital lives, with particular attention to under-reached populations who often face both health and communication inequities.
 
 Working at the intersection of infodemiology, social network analysis, and mixed methods, I map how different communities use social media platforms, examine the health information ecosystems that form within those spaces, and test strategies to interrupt misinformation while amplifying accurate, culturally resonant messages.
+
 I completed my PhD in Public Health Sciences at Washington University in St. Louis, where my dissertation, Old Narratives on New Media: Health Misinformation in Black Digital Communities, traced the volume, themes, and diffusion dynamics of COVID 19 misinformation on Black Twitter. My work has been supported by the UCLA Center for Critical Internet Inquiry and has appeared in outlets such as the Journal of Medical Internet Research, Health Education & Behavior, and Social Science & Medicine.
 
 Active Projects & Collaborations
 ------
-I'm interested in collaborations with experts in public health, information science, communications, digital humanities, and critical media studies. Check out the [](/pages/publications1), [](/pages/publications2), and [](/pages/publications3) projects tabs to learn more about my ongoing work. 
+I'm interested in collaborations with experts in public health, information science, communications, digital humanities, and critical media studies. Check out the [Infectious disease](/pages/publications1), [Chronic disease](/pages/publications2), and [Environmental health](/pages/publications3) projects tabs to learn more about my ongoing work. 
 
 Education
 ------
