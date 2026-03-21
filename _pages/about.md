@@ -8,15 +8,18 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I'm a PhD candidate in the Public Health Sciences program at Washington University in St. Louis, a [Chancellor’s Graduate fellow](https://provost.wustl.edu/items/chancellors-graduate-fellowship-program/) and [Spencer T. and Ann W. Olin fellow](https://provost.wustl.edu/items/chancellors-graduate-fellowship-program/), and an inaugural recipient of the [Center for Critical Internet Inquiry’s Tech Impact Network Dissertation Fellowship](https://twitter.com/C2i2_UCLA/status/1534875709188997120) at the University of California, Los Angeles. I have theoretical and applied research interests in how and why health misinformation spreads on the internet and how to combat it. Current projects use social network analysis and traditional statistics to evaluate fact-checking approaches and to explore the ways in which COVID-19 misinformation spreads on Twitter compared to other information types. My dissertation research examines the prevelance and diffusion dynamics of popular COVID-19 misinformation narratives on Black Twitter and is the first in a series of project that will investigate the health information ecosytem of online Black discursive networks. Complementary to my research interests, I am devoted to promoting gender and racial diversity in data science and am a co-organizer of RLadies Honolulu.
+Hello! I'm a Yerby Postdoctoral Fellow at the Harvard T.H. Chan School of Public Health whose work is driven by a simple goal: ensuring that everyone has access to trustworthy, useful health information—no matter who they are or where they get their news. I study how health information and misinformation move through our digital lives, with particular attention to Black communities and other under reached groups who often face both health and communication inequities.
+
+Working at the intersection of infodemiology, social network analysis, and mixed methods, I map how different communities use social media platforms, examine the health information ecosystems that form within those spaces, and test strategies to interrupt misinformation while amplifying accurate, culturally resonant messages.
+I completed my PhD in Public Health Sciences at Washington University in St. Louis, where my dissertation, Old Narratives on New Media: Health Misinformation in Black Digital Communities, traced the volume, themes, and diffusion dynamics of COVID 19 misinformation on Black Twitter. My work has been supported by the UCLA Center for Critical Internet Inquiry and has appeared in outlets such as the Journal of Medical Internet Research, Health Education & Behavior, and Social Science & Medicine.
 
 Active Projects & Collaborations
 ------
-I'm interested in cross-disciplinary collaborations with experts in public health, information science, communications, digital humanities, and critical media studies. Check out the [Health Misinformation](/pages/publications1), [Health Networks](/pages/publications2), and [DEI & Belonging](/pages/publications3) projects tabs to learn more about my work. 
+I'm interested in collaborations with experts in public health, information science, communications, digital humanities, and critical media studies. Check out the [](/pages/publications1), [](/pages/publications2), and [](/pages/publications3) projects tabs to learn more about my ongoing work. 
 
 Education
 ------
-MPH, Epidemiology (Emory University); BS, Biology (Georgetown University)
+PhD, Public Health Sciences (Washington University in St. Louis); MPH, Epidemiology (Emory University); BS, Biology (Georgetown University)
 
 Publications
 ------
@@ -25,7 +28,7 @@ Here's a [PDF of my CV](https://wustl.box.com/s/npdj9oc9fvkznddng8olsv4cpzwfa1j7
 **Conference Presentations**
 
 Croston M. “Black people cannot get coronavirus” and other myths: A social
-network analysis of COVID-19 misinformation diffusion on Black Twitter. Presented at the 2023 Promoting
+network analysis of COVID-19 misinformation diffusion on Black Twitter. Presented at the 2024 Promoting
 Research in Social Media and Health Symposium. San Francisco, California.
 
 Croston M. (2023, June) The effects of health departments’ ego networks on information diffusion during a
@@ -97,6 +100,10 @@ who were administered the national Youth Risk Behavior Surveillance survey in 20
 Annual American Public Health Association Meeting, New Orleans, Louisiana.
 
 **Journal Articles**
+
+(submitted) Croston M., Wang O, Harris J. A scoping review of literature on health misinformation and Black communities in the United States.
+
+(preprint) Croston M, Harris J. The spread of fact-checks and the myths they debunk on Twitter: A case study of the graphene oxide myth during the COVID-19 pandemic. JMIR Preprints. 06/03/2025:73538.
 
 Irie W., Croston M., Mahone, A. [The Impact of Providers as Health Discussants on Black Women’s Interest in PrEP for HIV Prevention. Journal of the International Association of Providers of AIDS Care](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10768609/). 2024 January; 23: 23259582231225278. doi: 10.1177/23259582231225278.
 
