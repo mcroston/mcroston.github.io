@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I'm a Yerby Postdoctoral Fellow at the Harvard T.H. Chan School of Public Health. My work is driven by a simple goal: ensuring that everyone has access to trustworthy, useful health information—no matter who they are or where they get their news. I study how health information and misinformation move through our digital lives, with particular attention to under-reached populations who often face both health and communication inequities.
+Welcome! I'm a Yerby Postdoctoral Fellow at the Harvard T.H. Chan School of Public Health and a Graduate Fellow at the Dana-Farber Cancer Institute. My work is driven by a simple goal: ensuring that everyone has access to trustworthy, useful health information—no matter who they are or where they get their news. I study how health information and misinformation move through our digital lives, with particular attention to under-reached populations who often face both health and communication inequities.
 
 Working at the intersection of infodemiology, social network analysis, and mixed methods, I map how different communities use social media platforms, examine the health information ecosystems that form within those spaces, and test strategies to interrupt misinformation while amplifying accurate, culturally resonant messages.
 
