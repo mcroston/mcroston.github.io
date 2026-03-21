@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Merriah Croston, MPH"
+title                    : "Merriah Croston, PhD, MPH"
 title_separator          : "-"
 name                     : &name "Merriah Croston"
 description              : &description "academic website"
@@ -83,7 +83,7 @@ author:
   name             : 
   avatar           : "headshot_sheleads.jpg"
   bio              : 
-  location         : "WashU in St. Louis"
+  location         : "Harvard T.H. Chan School of Public Health"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=Is6aJ00AAAAJ&hl=en"
