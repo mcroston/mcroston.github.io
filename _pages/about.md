@@ -16,7 +16,7 @@ I completed my PhD in Public Health Sciences at Washington University in St. Lou
 
 Active Projects & Collaborations
 ------
-I'm interested in collaborations with experts in public health, information science, communications, digital humanities, and critical media studies. Check out the [Infectious disease](/pages/publications1), [Chronic disease](/pages/publications2), and [Environmental health](/pages/publications3) projects tabs to learn more about my ongoing work. 
+I'm interested in collaborations with experts in public health, information science, communications, digital humanities, and critical media studies. Check out the [Supply-side](/pages/publications1), [Demand-side](/pages/publications2), and [Community mapping](/pages/publications3) projects tabs to learn more about my ongoing work. 
 
 Education
 ------
