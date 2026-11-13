@@ -1,0 +1,34 @@
+/*-- scss:defaults --*/
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+3:ital,wght@0,400;0,600;1,400&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400&display=swap');
+$font-family-sans-serif: "Source Sans 3", -apple-system, "Segoe UI", sans-serif;
+$headings-font-family: "Source Serif 4", Georgia, serif;
+$body-bg: #faf7f4;
+$body-color: #2a2f36;
+$link-color: #2f4f7f;
+$navbar-bg: transparent;
+$navbar-fg: #1c2a3f;
+$font-size-root: 17px;
+$headings-color: #1c2a3f;
+/*-- scss:rules --*/
+.navbar { border-bottom: 1px solid #e9e2dc; padding-top: .9rem; padding-bottom: .9rem; }
+.navbar-brand { font-family: "Source Serif 4", Georgia, serif; font-weight: 600; font-size: 1.25rem; }
+.navbar .nav-link { font-size: .95rem; }
+h1.title { font-size: 1.9rem; margin-bottom: .4rem; }
+h2 { font-size: 1.35rem; margin-top: 2rem; padding-bottom: .3rem; border-bottom: 1px solid #e9e2dc; }
+a { text-decoration: none; border-bottom: 1px solid rgba(47,79,127,.25); } a:hover { border-bottom-color: #1c2a3f; }
+.navbar a, .about-links a, .nav-footer a { border-bottom: none; }
+.quarto-about-trestles .about-entity .about-image { border-radius: 14px; box-shadow: 0 8px 24px rgba(28,42,63,.10); }
+.quarto-about-trestles .about-entity .about-link { border: 1px solid #d9d2cb; color: #1c2a3f; border-radius: 999px; font-size: .85rem; }
+.quarto-about-trestles .about-entity .about-link:hover { background: #1c2a3f; color: #fff; }
+.lead { font-family: "Source Serif 4", Georgia, serif; font-size: 1.2rem; line-height: 1.55; color: #1c2a3f; }
+.research-list { list-style: none; counter-reset: r; padding: 0; margin: 1rem 0 1.5rem; }
+.research-list li { counter-increment: r; position: relative; padding: .9rem 0 .9rem 2.6rem; border-top: 1px solid #e9e2dc; }
+.research-list li:last-child { border-bottom: 1px solid #e9e2dc; }
+.research-list li::before { content: "0" counter(r); position: absolute; left: 0; top: 1.05rem; font-size: .75rem; font-weight: 700; letter-spacing: .12em; color: #b5654a; }
+.research-list a { display: block; font-family: "Source Serif 4", Georgia, serif; font-size: 1.12rem; font-weight: 600; color: #1c2a3f; border-bottom: none; }
+.research-list span { display: block; font-size: .92rem; color: #5b6168; }
+.nav-footer { background: #f3eee9; border-top: 1px solid #e9e2dc; font-size: .85rem; }
+.lede { font-family: "Source Serif 4", Georgia, serif; font-size: 1.2rem; font-style: italic; color: #5b6168; margin: -.3rem 0 1.6rem; }
+blockquote { font-family: "Source Serif 4", Georgia, serif; font-style: italic; border-left: 3px solid #b5654a; color: #5b6168; padding-left: 1rem; }
+#quarto-search { display: none; }
+.navbar .nav-link { color: #4a5159 !important; } .navbar .nav-link:hover, .navbar .nav-link.active { color: #1c2a3f !important; }

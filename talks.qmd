@@ -1,0 +1,67 @@
+---
+title: "Talks"
+---
+
+## Invited talks
+
+**Croston M.** (2026, August). *Say it so it lands: The science of peer-to-peer health messaging on social platforms and how to design messages that work.* UMB/DF-HCC U54 Outreach Core Science Café, Chelsea, Massachusetts.
+
+**Croston M.** (2026, June). *Leveraging your research skills for health communication: A practical guide for early career investigators.* Writing retreat for Early Stage Investigators, Maternal and Child Center of Excellence, Harvard T.H. Chan School of Public Health (virtual).
+
+**Croston M.** (2025, October). *Health (mis)information & social media: At the intersection of people, platforms, and networks.* Communication for Public Health Researchers panel, Society for Epidemiologic Research Student & Postdoctoral Committee (virtual).
+
+**Croston M.**, Gershon R., Cryder C. (2019, March). *Risky business: The risk-reward trade-off is different for nonprofit and for-profit firms.* Spencer T. and Ann W. Olin Fellowship for Women's Spring Research Symposium, St. Louis, Missouri.
+
+**Croston M.**, Rabarison K. (2016, June). *Public health, Twitter chats, and evaluating participant engagement: A case study.* CDC/NCCDPHP Division of Population Health Scientific Workgroup meeting, Atlanta, Georgia.
+
+Rabarison K., **Croston M.** (2016, May). *How to measure public health Twitter chat participant engagement.* CDC/NCCDPHP Training Workgroup meeting, Atlanta, Georgia.
+
+**Croston M.**, Shaw C., Rabarison K., Bish C., Lebow-Skelley E., Henry D., Massoudi M. (2016, January). *An exploratory study of CDC's Prevention Research Centers, NCCDPHP's Four Domains, and partnerships with local, state, and tribal health departments.* CDC/NCCDPHP/DPH Applied Research & Translation Branch meeting, Atlanta, Georgia.
+
+## Refereed conference presentations
+
+**Croston M.**, Piombo S., Dhawan D., Mohanty S., Minsky S., Maldonado-Campos A., Frazier L., Viswanath K. (2026, October). *Source-specific vaping information exposure, harm and benefit beliefs, and vaping outcomes across diverse U.S. adolescents.* 19th AACR Conference on The Science of Cancer Health Disparities, Atlanta, Georgia.
+
+**Croston M.** (2026, October). *Platform repertoires and co-use ecologies: An intersectional account of social media platform use among White, Black, and Hispanic adults in the U.S.* Association of Internet Researchers Conference, Mexico City, Mexico.
+
+**Croston M.** (2026, July). *Platform repertoires and co-use ecologies: An intersectional account of social media platform use among White, Black, and Hispanic adults in the U.S.* 12th International Conference on Computational Social Science, Burlington, Vermont.
+
+**Croston M.** (2026, June). *Platform repertoires and co-use ecologies: An intersectional account of social media platform use among White, Black, and Hispanic adults in the U.S.* INSNA 46th Sunbelt Conference, Daytona Beach, Florida.
+
+Kikut-Stein A., Mohanty S., **Croston M.**, Mahtani S., Li K., Maldonado-Campos A., Minsky S., Grullon Rojas A., Marte J., Adamic M., Frazier L., Viswanath K. (2026, April). *Integrating ecological momentary assessment and participatory action research to develop measures of youth health information exposure.* Kentucky Conference on Health Communication, Lexington, Kentucky.
+
+**Croston M.** (2024, December). *"Black people cannot get coronavirus" and other myths: A social network analysis of COVID-19 misinformation diffusion on Black Twitter.* Promoting Research in Social Media and Health Symposium, San Francisco, California.
+
+**Croston M.** (2023, June). *The effects of health departments' ego networks on information diffusion during a public health crisis: Twitter as a case study.* INSNA 43rd Sunbelt Conference, Portland, Oregon.
+
+**Croston M.** (2022, November). *Twitter's Birdwatch: A case study of crowd-sourced and community-based fact-checking.* 20th Annual Community Informatics Research Network Conference, Prato, Italy.
+
+**Croston M.**, Harris J. (2022, July). *Misinformation versus fact-checks: Comparative analysis of COVID-19 vaccine-related retweet networks.* INSNA 42nd Sunbelt Conference, Cairns, Australia.
+
+**Croston M.**, Harris J. (2022, June). *What's in a jab?: The spread of COVID-19 vaccine misinformation versus fact-checks on Twitter.* useR! Conference.
+
+Thompson T., Coats J., **Croston M.**, Motley R., Colditz G., King K., James A. (2020, November). *"I didn't think about me": Perspectives on supportive resources for informal caregivers of Black breast cancer patients.* Siteman Cancer Center Research Symposium (virtual).
+
+Thompson T., Coats J., **Croston M.**, Motley R., Colditz G., King K., James A. (2020, April). *"I didn't think about me": Perspectives on supportive resources for informal caregivers of Black breast cancer patients.* Society of Behavioral Medicine 42nd Annual Meeting & Scientific Sessions (virtual).
+
+Gershon R., Cryder C., **Croston M.** (2019, October). *Risky business: The risk-reward trade-off is different for nonprofit and for-profit firms.* Association for Consumer Research Annual Conference, Atlanta, Georgia.
+
+**Croston M.**, Gershon R., Cryder C. (2019, February). *Risky business: The risk-reward trade-off is different for nonprofit and for-profit firms.* Society for Consumer Psychology Annual Conference, Savannah, Georgia.
+
+**Croston M.**, Kline J., Bish C., Lilleston P., Leeks K., Massoudi M. (2016, October). *Evaluating the associations between structural and contextual characteristics and productivity among a network of CDC-funded Prevention Research Centers.* American Evaluation Association's Evaluation 2016, Atlanta, Georgia.
+
+Kline J., **Croston M.**, Bish C., Lilleston P., Leeks K., Massoudi M. (2016, September). *Evaluating the associations between structural and contextual characteristics and productivity among a network of CDC-funded Prevention Research Centers.* CDC Evaluation Day, Atlanta, Georgia.
+
+Rabarison K., **Croston M.** (2016, June). *How to measure public health Twitter chat participant engagement.* NACCHO Annual Conference, Phoenix, Arizona.
+
+**Croston M.**, Rabarison K., Bish C. (2016, June). *Evaluating participant engagement during a public health Twitter chat: Insights from #LiveFitNOLA.* NACCHO Annual Conference, Phoenix, Arizona.
+
+**Croston M.**, Shaw C., Rabarison K., Bish C., Lebow-Skelley E., Henry D., Massoudi M. (2015, November). *The potential impact of PRCs' core research projects & core research partnerships with health departments within the framework of the CDC's Chronic Disease Domains.* 143rd APHA Annual Meeting, Chicago, Illinois.
+
+**Croston M.**, Chandra G., Bish C. (2015, September). *Innovations in data collection: Evaluation of the Prevention Research Centers Program.* CDC Evaluation Day, Atlanta, Georgia.
+
+**Croston M.**, Rabarison K., Bish C. (2015, September). *Public health, Twitter chats, and evaluating participant engagement: A case study.* CDC Evaluation Day, Atlanta, Georgia.
+
+**Croston M.**, Rabarison K., Bish C. (2015, August). *Public health, Twitter, and the Big Easy.* National Conference on Health Communication, Marketing, and Media, Atlanta, Georgia.
+
+**Croston M.** (2014, November). *Weight perception and suicide-related outcomes among high school students who were administered the national Youth Risk Behavior Surveillance survey in 2011.* 142nd APHA Annual Meeting, New Orleans, Louisiana.

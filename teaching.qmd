@@ -1,0 +1,45 @@
+---
+title: "Teaching"
+---
+
+My goal as a teacher is to prepare students to study, navigate, and shape the communication environments in which people make decisions about their health. I anchor concepts in real problems, real data, and real settings; keep the classroom welcoming and encouraging; and cultivate systems thinking, so students can reason about communication as a multilevel system in which message features, network structures, channel affordances, and social and political context jointly shape what spreads, what people believe, and what they do. My courses run on collaborative problem-solving, peer teaching, and structured discussion, culminating in projects where students apply course concepts to data and questions of their choice.
+
+## Courses taught
+
+*Washington University in St. Louis, Brown School, unless noted.*
+
+**Instructor**
+
+- **Introduction to Public Health** (nanocourse), co-instructor, Harvard Medical School, Fall 2026
+- **Public Health Seminar I** (SS55-5910), 2020
+- **Public Health Seminar II** (SS55-5920), 2019
+
+**Lab instructor**
+
+- **Applied Linear Regression** (S90-6900), required doctoral statistics course, 2019–2021
+
+**Teaching and grading assistant**
+
+- **Explaining Health Behavior: Insights from Behavioral Economics** (SBS 530), Harvard T.H. Chan School of Public Health, 2026
+- **Epidemiology** (S55-5002), 2019
+- **Environmental Health** (S55-5005), 2018
+- **Health Behavior and Health Education** (S55-5001), 2018
+
+**Statistics tutor**, StatLab, Brown School, 2019–2023
+
+## Guest lectures
+
+- *Health misinformation & social media: Spotting it + intervention approaches.* Social Justice and Social Policy, University of Arkansas School of Social Work, 2023
+- *Professional development in public health.* Cross-cutting themes course, Brown School, 2019 (with E. Evers)
+- *Program evaluation, Twitter & public health.* Public Health and Society, Brown School, 2015 and 2017
+- *Social marketing: An abbreviated inventory of current research & practical methods.* Public Health and Society, Brown School, 2014
+
+## Health communication training
+
+Beyond the classroom, I teach health communication skills to early-career researchers, including a Society for Epidemiologic Research career-development webinar (2025) and a Harvard-affiliated writing retreat for early-stage investigators (2026). See [Talks](talks.qmd).
+
+## What students say
+
+> "She encouraged and guided us to think through material which allowed us to arrive at answers." (Applied Linear Regression)
+
+> "Merriah was wonderful and encouraged differing viewpoints." (Public Health Seminar II)

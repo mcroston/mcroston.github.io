@@ -1,0 +1,21 @@
+---
+title: "Research"
+---
+
+I study how communication environments, online and offline, shape health beliefs and behaviors, and how to design communication interventions that work for the people who bear the burden of communication inequalities: unequal access to health information, and unequal capacity to attend to it, trust it, and act on it. Cancer prevention is the substantive anchor for this work, and I take a mixed methods approach.
+
+The work is organized around three connected questions. Each builds on the one before it.
+
+<ol class="research-list">
+  <li><a href="mapping-communication-environments.qmd">Mapping communication environments</a><span>Who is where, what circulates, and how it moves. Platform repertoires across groups; health (mis)information in Black discourse streams; diffusion of misinformation and fact-checks.</span></li>
+  <li><a href="exposure-beliefs-behaviors.qmd">From exposure to beliefs and behaviors</a><span>How source-specific exposure relates to beliefs and behaviors, currently with a focus on vaping, alcohol, and HPV vaccination among U.S. adolescents and young adults.</span></li>
+  <li><a href="designing-interventions.qmd">Designing communication interventions</a><span>Translating insights into tailored, digital-technology-enabled interventions for cancer prevention, and eventually across the cancer care continuum.</span></li>
+</ol>
+
+## Methods
+
+Social network analysis; structural equation modeling; multilevel and longitudinal modeling; content analysis, including human-led, AI-supported coding of large social media datasets; survey and interview instrument development. I work primarily in R.
+
+## Collaboration
+
+I welcome collaborations across public health, communication, computational social science, and medicine. If your work touches any of the questions above, I'd be glad to hear from you at [mcroston@hsph.harvard.edu](mailto:mcroston@hsph.harvard.edu).

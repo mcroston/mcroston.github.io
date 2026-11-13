@@ -1,0 +1,49 @@
+project:
+  type: website
+  output-dir: _site
+  resources:
+    - files/
+
+website:
+  title: "Merriah Croston"
+  site-url: https://mcroston.github.io
+  description: "Merriah Croston studies how communication environments shape health beliefs and behaviors, and how to design communication interventions for the people who bear the burden of communication inequalities."
+  favicon: images/favicon.png
+  open-graph: true
+  navbar:
+    right:
+      - text: Research
+        href: research/index.qmd
+      - text: Publications
+        href: publications.qmd
+      - text: Teaching
+        href: teaching.qmd
+      - text: Talks
+        href: talks.qmd
+      - text: "Mentoring & Service"
+        href: service.qmd
+      - text: CV
+        href: files/croston_cv.pdf
+  page-footer:
+    left: "© 2026 Merriah Croston"
+    right:
+      - icon: envelope
+        href: mailto:mcroston@hsph.harvard.edu
+        aria-label: Email
+      - icon: mortarboard
+        href: https://scholar.google.com/citations?user=Is6aJ00AAAAJ&hl=en
+        aria-label: Google Scholar
+      - icon: linkedin
+        href: https://www.linkedin.com/in/merriahcroston/
+        aria-label: LinkedIn
+      - icon: github
+        href: https://github.com/mcroston
+        aria-label: GitHub
+
+format:
+  html:
+    theme: [cosmo, custom.scss]
+    toc: false
+    grid:
+      body-width: 760px
+    link-external-newwindow: true
