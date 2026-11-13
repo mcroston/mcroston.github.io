@@ -11,4 +11,4 @@ Personal academic website of Merriah Croston, built with [Quarto](https://quarto
 
 ## Publishing
 
-Pushing to `master` triggers the GitHub Action in `.github/workflows/publish.yml`, which renders the site and publishes it to the `gh-pages` branch. GitHub Pages serves the site from that branch.
+Pushing to `master` triggers the GitHub Action in `.github/workflows/publish.yml`, which renders the site and deploys it to GitHub Pages. The repository's Pages source is set to **GitHub Actions** (Settings → Pages).
