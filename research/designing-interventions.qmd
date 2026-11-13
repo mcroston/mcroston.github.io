@@ -1,0 +1,23 @@
+---
+title: "Designing communication interventions"
+---
+
+::: {.lede}
+Translating what we learn about communication environments into interventions that change behavior.
+:::
+
+Every communication intervention rests on the same prerequisite: understanding the environment it will enter and how that environment shapes beliefs and behaviors. The first two lines of my research supply that understanding. This third line is where it leads: tailored, digital-technology-enabled communication interventions for cancer prevention, designed for the people who bear the burden of communication inequalities.
+
+## Current focus: cancer prevention
+
+My current work is anchored in cancer prevention, where the behaviors at stake (tobacco and vaping, alcohol, HPV vaccination, screening) are shaped by what people hear and from whom. The intervention questions that follow from my mapping and exposure work include:
+
+- **Message placement.** Optimizing prevention and screening messages for placement across the channels people actually use, including social media, search, and large language models, informed by who is where.
+- **Message design.** Designing peer-to-peer health messages for social platforms that are accurate, culturally resonant, and more likely to spread than the misinformation they compete with.
+- **Platform-level correction.** Understanding when and for whom fact-checks and crowd-sourced corrections work, and how they could work better.
+
+## Longer term: across the cancer care continuum
+
+Over time I aim to extend this work beyond prevention to diagnosis, treatment, and survivorship, where communication needs are different but no less shaped by inequality. Examples of the interventions I hope to develop and evaluate include using AI to render diagnoses and prognoses in language matched to a patient's health literacy, and responsive simulations that let people rehearse difficult conversations, such as disclosing a BRCA mutation to relatives.
+
+I also aim to make this work increasingly community-engaged, building on collaborative methods such as participatory action research that I have contributed to as a co-author.

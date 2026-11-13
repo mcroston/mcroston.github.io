@@ -1,0 +1,36 @@
+---
+title: "Mapping communication environments"
+---
+
+::: {.lede}
+Who is where, what circulates, and how it moves.
+:::
+
+Before asking how health information shapes beliefs and behaviors, we need to know what the environment looks like: which platforms and sources different groups rely on, what health information and misinformation is present there, and how it moves. This work characterizes those environments, with particular attention to groups that bear the burden of communication inequalities.
+
+## Who is where
+
+Platform use is not evenly distributed. This work develops an intersectional account of social media platform repertoires and co-use among White, Black, and Hispanic adults in the U.S., stratified by gender, age, and education, and traces how those repertoires shifted across the pandemic era. Knowing who is where is the empirical basis for understanding inequalities in access, and for deciding where prevention messages need to be placed.
+
+- Croston M. (2026). *Platform repertoires and co-use ecologies: An intersectional account of social media platform use among White, Black, and Hispanic adults in the U.S.* Presented at the INSNA Sunbelt Conference, the International Conference on Computational Social Science, and the Association of Internet Researchers Conference. Manuscript in preparation.
+
+## What circulates
+
+Black communities have been targeted by health misinformation yet remain understudied in the misinformation literature. This work maps the prevalence, topics, and themes of health (mis)information in Black discourse streams, beginning with COVID-19 and extending to multi-platform data (Twitter/X, Facebook, Instagram) coded with a human-led, AI-supported approach. It was supported by a Tech Impact Network Dissertation Fellowship from the UCLA Center for Critical Internet Inquiry and is the focus of my Yerby Fellowship project.
+
+- Croston M., Wang O., Harris J. *A scoping review of literature on health misinformation and Black communities in the United States.* Under review.
+- Croston M. (2025). *Old Frames on New Media: Health Misinformation in Black Digital Communities.* Doctoral dissertation, Washington University in St. Louis.
+- Croston M. (2024). *"Black people cannot get coronavirus" and other myths: A social network analysis of COVID-19 misinformation diffusion on Black Twitter.* Promoting Research in Social Media and Health Symposium.
+
+## How it moves, and what platforms do about it
+
+Misinformation and its corrections do not travel the same paths. This work uses social network analysis to compare how myths and fact-checks diffuse, examines health departments' network positions and reach during a public health crisis, and evaluates platform-level responses such as crowd-sourced fact-checking.
+
+- Croston M., Harris J. (2025). *The spread of fact-checks and the myths they debunk on Twitter: A case study of the graphene oxide myth during the COVID-19 pandemic.* JMIR Preprints. Preprint.
+- Croston M. (2023). *The effects of health departments' ego networks on information diffusion during a public health crisis: Twitter as a case study.* INSNA Sunbelt Conference.
+- Croston M. (2022). *Twitter's Birdwatch: A case study of crowd-sourced and community-based fact-checking.* Community Informatics Research Network Conference.
+- Croston M., Harris J. (2022). *Misinformation versus fact-checks: Comparative analysis of COVID-19 vaccine-related retweet networks.* INSNA Sunbelt Conference.
+
+## Related
+
+A proposal under review with Harvard's Salata Institute for Climate and Sustainability (co-PI, with K. Viswanath) would extend this approach to climate-risk communication environments in Black communities across urban, suburban, and rural Massachusetts.

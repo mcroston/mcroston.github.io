@@ -1,0 +1,26 @@
+---
+title: "From exposure to beliefs and behaviors"
+---
+
+::: {.lede}
+How exposure to health information, from specific sources, shapes what people believe and do.
+:::
+
+Communication environments matter because of what they do to beliefs and behaviors. This work links exposure to health information from specific sources to the beliefs people hold and the behaviors that follow, and asks how those relationships differ across groups. Its current focus is substance use and other cancer-related health behaviors among adolescents and young adults in the U.S.
+
+## Vaping, alcohol, and HPV vaccination
+
+Using survey data from a diverse national sample of U.S. adolescents, this work models the relationships among source-specific information exposure, harm and benefit beliefs, and behavioral outcomes, with structural equation modeling and multi-group comparisons across racial and ethnic groups. The first paper examines vaping; parallel manuscripts on alcohol use and HPV vaccination are in development.
+
+- Croston M., Piombo S., Dhawan D., Mohanty S., Minsky S., Maldonado-Campos A., Petro G., Frazier L., Viswanath K. *Source-specific vaping information exposure, harm and benefit beliefs, and vaping outcomes across diverse U.S. adolescents.* Journal of Health Communication. Under review.
+- Croston M., et al. (2026). *Source-specific vaping information exposure, harm and benefit beliefs, and vaping outcomes across diverse U.S. adolescents.* AACR Conference on The Science of Cancer Health Disparities.
+
+## Measuring exposure
+
+Exposure is hard to measure well, particularly among young people. This collaborative work integrates ecological momentary assessment and participatory action research to develop and contextualize measures of youth health information exposure.
+
+- Kikut-Stein A., Mohanty S., Mahtani S., Minsky S., Maldonado-Campos A., Li K., Croston M., Fredericks M., Marte J., Adamic M., Frazier L., Viswanath K. *Are we getting the message? Contextualizing youth health information exposure measurement with ecological momentary assessment and participatory action research.* Journal of Health Communication. Revised and resubmitted.
+
+## Earlier work
+
+Earlier collaborative studies examined related questions in other populations: the role of providers as health discussants in Black women's interest in PrEP, the social context of informal caregivers for Black women with breast cancer, and the relationship between social needs and smoking among low-income adults. See [Publications](../publications.qmd).

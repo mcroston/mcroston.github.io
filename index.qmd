@@ -1,0 +1,41 @@
+---
+title: "Merriah Croston"
+subtitle: "PhD, MPH"
+about:
+  template: trestles
+  image: images/portrait.jpg
+  image-alt: "Merriah Croston"
+  image-shape: rounded
+  image-width: 13em
+  links:
+    - text: Email
+      href: mailto:mcroston@hsph.harvard.edu
+    - text: Google Scholar
+      href: https://scholar.google.com/citations?user=Is6aJ00AAAAJ&hl=en
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/merriahcroston/
+    - text: CV
+      href: files/croston_cv.pdf
+---
+
+::: {.lead}
+I am a Yerby Postdoctoral Fellow at the Harvard T.H. Chan School of Public Health and a Research Fellow in Dr. K. Viswanath's lab at Dana-Farber Cancer Institute. I study how communication environments, online and offline, shape health beliefs and behaviors, and how to design communication interventions that work for the people who bear the burden of communication inequalities.
+:::
+
+My research asks three connected questions: what health information circulates, how it moves, and who it reaches; how exposure shapes beliefs and behaviors, currently with a focus on substance use and other cancer-related behaviors among adolescents and young adults; and how those insights can be translated into digital-technology-enabled interventions for cancer prevention, with the longer-term aim of extending this work across the cancer care continuum. I take a mixed methods approach, and my work sits at the intersection of health communication and health equity.
+
+I earned my PhD in Public Health Sciences from Washington University in St. Louis (2025) after a decade in public health practice at CDC and the Georgia Department of Community Health.
+
+## Research
+
+<ol class="research-list">
+  <li><a href="research/mapping-communication-environments.qmd">Mapping communication environments</a><span>Who is where, what circulates, and how it moves</span></li>
+  <li><a href="research/exposure-beliefs-behaviors.qmd">From exposure to beliefs and behaviors</a><span>Substance use and other cancer-related behaviors among adolescents and young adults</span></li>
+  <li><a href="research/designing-interventions.qmd">Designing communication interventions</a><span>Digital-technology-enabled interventions for cancer prevention</span></li>
+</ol>
+
+## Education
+
+- **PhD, Public Health Sciences**, Washington University in St. Louis, 2025
+- **MPH, Epidemiology**, Emory University, 2014
+- **BS, Biology**, Georgetown University, 2006
